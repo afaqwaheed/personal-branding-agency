@@ -1,0 +1,2 @@
+2024/09/01 22:22:23 [alert] 1112#8104: OpenEvent("ngx_master_15788") failed (2: The system cannot find the file specified)
+2024/09/03 04:47:54 [error] 1812#9096: *7949 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10044", host: "personal-branding-agency.local", referrer: "http://personal-branding-agency.local/?elementor-preview=11&ver=1725320868"
