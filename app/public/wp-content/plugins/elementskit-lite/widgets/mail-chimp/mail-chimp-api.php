@@ -68,4 +68,5 @@ class ElementsKit_Widget_Mail_Chimp_Api extends Core\Handler_Api {
         return $return;
     }
 }
-// https://us20.api.mailchimp.com/3.0/lists?apikey=your_api_key_here
+// Remove sensitive data
+$url = 'https://api.mailchimp.com/3.0/lists/'.$listed.'/members/';
